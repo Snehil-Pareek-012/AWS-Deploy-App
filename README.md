@@ -1,0 +1,1 @@
+This project is for deploying a web app on AWS using DevOps practices.
